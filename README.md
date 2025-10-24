@@ -10,7 +10,6 @@
   - ✅ A checkbox to **debin** (convert binary `.sqm` to text format)
   - ✅ A checkbox to **bin** (convert text `.sqm` back to binary format)
 - These options are available only if CfgConvert is detected — but **CfgConvert is not required** for basic class replacement.
-- If the user **unchecks the backup checkbox**, the tool will automatically **create a backup** of the original `mission.sqm` file before making any changes.
 
 ### 🧹 Additional Features
 
